@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+/home/rieau/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1062029502.index
+443912312.index
+22503740.index
+2250753406.index
+3492681468.index
+3169629585.index
+3577671148.index
+3896691075.index

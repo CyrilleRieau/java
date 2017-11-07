@@ -1,0 +1,19 @@
+package premier.java.Fichiers;
+
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+
+public class FileAccess {
+	public void readFile() {
+		String path = "test.txt";
+		
+		try {
+			FileReader reader = new FileReader(path);
+			int currentChar = reader.read();
+			while(currentChar != -1)
+		} catch (IOEException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+}

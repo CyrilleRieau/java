@@ -1,0 +1,35 @@
+package premier.java;
+
+import premier.java.Fichiers.FileAccess;
+
+public class Premier {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		FileAccess fa = new FileAccess();
+		fa.readFile();
+		
+//		int maVariable = 10;
+//		long monLong = 100000000000l;
+//		float monFloat = 1.2f;
+//		char monChar = 'a';
+//		byte monByte = 10;
+//		boolean monBool = true;
+//		short monShort = 100;
+//		double monDouble = 10000.10230230032023d;
+//		
+//		if(monByte > 300) {
+//			
+//		}else {
+//			
+//		}
+//		
+//		for(int x = 0; x < 10; x ++) {
+//			System.out.println(x);
+//		}
+//		
+//		System.out.println(maVariable);
+	}
+
+}
